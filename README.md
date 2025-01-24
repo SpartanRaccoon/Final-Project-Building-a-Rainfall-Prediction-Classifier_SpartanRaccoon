@@ -1,4 +1,4 @@
-# FinalProject_AUSWeather_SpartanRaccoon
+# Final Project: Building a Rainfall Prediction Classifier_SpartanRaccoon
 check this out if you need some hint for the code
 lease note that there might be some mistakes in the original code:
 
