@@ -1,6 +1,7 @@
 # Final Project: Building a Rainfall Prediction Classifier_SpartanRaccoon
+# click STAR
 check this out if you need some hint for the code
-lease note that there might be some mistakes in the original code:
+please note that there might be some mistakes in the original code:
 
 You have to define important_df by yourself.
 
