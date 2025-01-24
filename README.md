@@ -6,7 +6,7 @@ You have to define important_df by yourself.
 
 You should use gridsearch.fit instead of model.fit (the model is not defined in the original code).
 
-Question 3 :95%
+Question 3 :76%
 
 Question 5:
 Accuracy
